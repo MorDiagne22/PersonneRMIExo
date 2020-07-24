@@ -1,0 +1,6 @@
+cours\java\model\Personne.class
+cours\java\service\IPersonne.class
+cours\java\model\Ville.class
+cours\java\service\IRue.class
+cours\java\service\IVille.class
+cours\java\model\Rue.class
